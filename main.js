@@ -120,8 +120,8 @@ async function run() {
         // console.log(user)
 
 
-        const user = await User.find()
-        console.log(user)
+        // const user = await User.find()
+        // console.log(user)
         // const user = await User.updateMany({age: {$gt: 25}} , {$push: {hobbies: "Golf"}})
         // console.log(user)
         
